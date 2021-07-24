@@ -1,0 +1,45 @@
+{
+    "signature": "eMhrpdzwDgWf7zsLsAeS",
+    "signatures": {
+        "none": "",
+        "login": "c83d292dba8529399185f7f9e743040faa478d4f",
+        "me": "6892c3694933e97fb0faeeb704f126efae185c89",
+        "antibot_feedback": "42cc40205bb31522480ff396e83a638c47f978c0",
+        "general": "a86c8e98cda6ea90b70ae16505f4e9c96d9871d4",
+        "banners": "01915113ef74688b0289b16422e98628d1d8fe8a",
+        "show_banners_track": "17c7482c706363a74e10ad1d040cf7dda5beb0ba",
+        "filters_info": "5547aadba1d9ceb8dde308a08b4e1a82ff85246f",
+        "feature_flags": "02d197ed8bc3fe9a1c4a243e35303bb60bce4a60",
+        "index": "99320ae61f31b3e887956a0521596486632bd9ef",
+        "rapid_messages_list": "09ed99077a86278f15ebacbf799247255b8613b1",
+        "logout": "c700306e1648874133b6ecb7d81e4d2bca28931e",
+        "users": "af5a8d59ffa7ff094cef2499cf3ed32da85d022c"
+    },
+    "urls": {
+        "login_form": "https://www.kupujemprodajem.com/login",
+        "login": "https://www.kupujemprodajem.com/api/web/v1/auth/login",
+        "me": "https://www.kupujemprodajem.com/api/web/v1/me",
+        "antibot_feedback": "https://www.kupujemprodajem.com/api/web/v1/anti-bot/feedback",
+        "general": "https://www.kupujemprodajem.com/api/web/v1/general",
+        "banners": "https://www.kupujemprodajem.com/api/web/v1/banners",
+        "show_banners_track": "https://www.kupujemprodajem.com/api/web/v1/banners/show-track",
+        "filters_info": "https://www.kupujemprodajem.com/api/web/v1/general/filters-info",
+        "feature_flags": "https://www.kupujemprodajem.com/api/web/v1/general/feature-flags",
+        "index": "https://www.kupujemprodajem.com/api/web/v1/poll/index",
+        "rapid_messages_list": "https://www.kupujemprodajem.com/api/web/v1/rapid-messages/list",
+        "logout": "https://www.kupujemprodajem.com/api/web/v1/auth/logout",
+        "users": "https://www.kupujemprodajem.com/api/web/v1/users/{}",
+        "user_reviews": "https://www.kupujemprodajem.com/api/web/v1/reviews/users/{}?userType=all&rate=positive&page=1",
+        "message_ajax": "https://www.kupujemprodajem.com/message_ajax.php?action=ajax_pending_messages&rnd=0"
+    },
+    "user-agents": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 Edg/91.0.864.71",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1",
+        "Mozilla/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1",
+        "Mozilla/5.0 (iPod touch; CPU iPhone 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/84.0.4147.89 Safari/537.36"
+    ]
+}
